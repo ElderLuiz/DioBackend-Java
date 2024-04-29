@@ -1,6 +1,6 @@
-package dev.elder.introducao.AnatomiadasClasses;
+package dev.elder.aprendendoSintaxeJava.AIntroducao;
 
-public class AMinhaClasse {
+public class AAnatomiaDasClasses {
     public static void main(String[] args) {
         System.out.println("Bem Vindo ao Meu Trajeto no BootCamp Backend com Java Realizado pelo Santander junto com a DIO");
 
@@ -12,7 +12,7 @@ public class AMinhaClasse {
 
         //Estrutura
         //Tipo NomeBemDefinido Atribuição (opcional em alguns casos)
-        String primeiroNome = "Elder";
+        String primeiroNome = "Elder ";
         String sobreNome = "Luiz";
 
         String nomeCompleto = nomeCompleto(primeiroNome, sobreNome);
@@ -20,6 +20,6 @@ public class AMinhaClasse {
 
     }
     public static String nomeCompleto(String primeiroNome, String sobreNome){
-        return primeiroNome.concat(" ").concat(sobreNome);
+        return primeiroNome + sobreNome;
     }
 }
