@@ -22,5 +22,13 @@ public class COperadores {
         // EXEMPLO DE CONDICIONAL UTILIZANDO UMA ESTRUTURA IF/ELSE
 
         System.out.println(resultado);
+
+        int number = 3;
+        int number1 = 3;
+
+        boolean yesNo = number1 == number1;
+        System.out.println("O numero 1 é igual ao numero 2 "+yesNo);
+
+
     }
 }
