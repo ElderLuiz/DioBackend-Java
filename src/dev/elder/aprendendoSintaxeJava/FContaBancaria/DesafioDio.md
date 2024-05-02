@@ -45,9 +45,10 @@ Seu saldo atual disponível: "+saldo
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-## Código em execução
+## Código em execução 
+# Video teve que ser comprimido para conseguir soltar aqui
 
-
+https://github.com/ElderLuiz/DioBackend-Java/assets/149433145/82fa8da1-52ad-4c3b-813d-91525da7e1ce
 
 <h2>Ferramentas utilizadas</h2>
 
@@ -56,4 +57,4 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 <h2>Acesse o projeto</h2>
 
-Você pode [acessar o código fonte do projeto]().
+Você pode [acessar o código fonte do projeto](https://github.com/ElderLuiz/DioBackend-Java/blob/main/src/dev/elder/aprendendoSintaxeJava/FContaBancaria/ContaTerminal.java).
