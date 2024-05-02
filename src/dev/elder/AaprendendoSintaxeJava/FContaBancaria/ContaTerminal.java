@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.FContaBancaria;
+package dev.elder.AaprendendoSintaxeJava.FContaBancaria;
 
 import java.util.Scanner;
 

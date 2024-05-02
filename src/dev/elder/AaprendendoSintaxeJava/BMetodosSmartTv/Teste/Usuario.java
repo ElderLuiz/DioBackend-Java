@@ -1,6 +1,6 @@
-package dev.elder.aprendendoSintaxeJava.BMetodosSmartTv.Teste;
+package dev.elder.AaprendendoSintaxeJava.BMetodosSmartTv.Teste;
 
-import dev.elder.aprendendoSintaxeJava.BMetodosSmartTv.dominio.SmartTv;
+import dev.elder.AaprendendoSintaxeJava.BMetodosSmartTv.dominio.SmartTv;
 
 public class Usuario {
     public static void main(String[] args) {

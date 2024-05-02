@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.AIntroducao;
+package dev.elder.AaprendendoSintaxeJava.AIntroducao;
 
 public class BTiposeVariaveis {
     public static void main(String[] args) {

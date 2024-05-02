@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.EJavaDoc;
+package dev.elder.AaprendendoSintaxeJava.EJavaDoc;
 
 public class Calculadora {
     /**

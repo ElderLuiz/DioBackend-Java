@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.CEscopo;
+package dev.elder.AaprendendoSintaxeJava.CEscopo;
 
 public class Escopo {
     public void soma(){

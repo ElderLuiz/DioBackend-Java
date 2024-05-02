@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.AIntroducao;
+package dev.elder.AaprendendoSintaxeJava.AIntroducao;
 
 public class COperadores {
     public static void main(String[] args) {

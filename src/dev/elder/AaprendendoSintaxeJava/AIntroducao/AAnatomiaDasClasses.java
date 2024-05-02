@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.AIntroducao;
+package dev.elder.AaprendendoSintaxeJava.AIntroducao;
 
 public class AAnatomiaDasClasses {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.BMetodosSmartTv.dominio;
+package dev.elder.AaprendendoSintaxeJava.BMetodosSmartTv.dominio;
 
 public class SmartTv {
     boolean ligada=false;

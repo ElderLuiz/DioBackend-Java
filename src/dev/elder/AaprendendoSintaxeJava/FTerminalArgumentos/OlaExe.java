@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.FTerminalArgumentos;
+package dev.elder.AaprendendoSintaxeJava.FTerminalArgumentos;
 
 public class OlaExe {
     public static void main(String[] args) {

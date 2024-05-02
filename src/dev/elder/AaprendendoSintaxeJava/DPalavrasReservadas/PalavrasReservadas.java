@@ -1,4 +1,4 @@
-package dev.elder.aprendendoSintaxeJava.DPalavrasReservadas;
+package dev.elder.AaprendendoSintaxeJava.DPalavrasReservadas;
 
 public class PalavrasReservadas {
     /*Modificadores de acesso
