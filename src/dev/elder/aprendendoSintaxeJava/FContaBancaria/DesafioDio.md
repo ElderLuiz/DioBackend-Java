@@ -46,7 +46,7 @@ Seu saldo atual disponível: "+saldo
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
 ## Código em execução 
-# Video teve que ser comprimido para conseguir soltar aqui
+ Video teve que ser comprimido para conseguir soltar aqui
 
 https://github.com/ElderLuiz/DioBackend-Java/assets/149433145/82fa8da1-52ad-4c3b-813d-91525da7e1ce
 
