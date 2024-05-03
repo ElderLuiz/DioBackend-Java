@@ -15,5 +15,9 @@ public class BNotaAluno {
 
         System.out.println("A nota do "+nomeAluno+ " Foi "+nota);
 
+        int notaA = 7;
+        String resultado = notaA >= 7 ? "Aprovado ": " Reprovado";
+        System.out.println(resultado);
+
     }
 }
