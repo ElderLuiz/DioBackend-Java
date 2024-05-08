@@ -1,4 +1,4 @@
-package dev.elder.BestruturasCondicionais;
+package dev.elder.BTratamentoExcecoes.BestruturasCondicionais;
 
 public class DTamanhoCamisa {
     public static void main(String[] args) {

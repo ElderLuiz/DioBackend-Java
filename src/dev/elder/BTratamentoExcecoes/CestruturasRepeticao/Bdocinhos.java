@@ -1,4 +1,4 @@
-package dev.elder.CestruturasRepeticao;
+package dev.elder.BTratamentoExcecoes.CestruturasRepeticao;
 import java.util.Random;
 
 public class Bdocinhos {

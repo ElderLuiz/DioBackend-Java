@@ -1,4 +1,4 @@
-package dev.elder.CestruturasRepeticao;
+package dev.elder.BTratamentoExcecoes.CestruturasRepeticao;
 
 public class Acarneirinhos {
     public static void main(String[] args) {

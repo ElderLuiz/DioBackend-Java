@@ -1,4 +1,4 @@
-package dev.elder.BestruturasCondicionais;
+package dev.elder.BTratamentoExcecoes.BestruturasCondicionais;
 
 public class BNotaAluno {
     //condicional composta
