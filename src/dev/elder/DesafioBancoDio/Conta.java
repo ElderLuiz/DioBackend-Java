@@ -46,8 +46,20 @@ public abstract class Conta implements IConta{
         return saldo;
     }
     protected void imprimirInfo(){
+        System.out.println("============= Informações do Titular =============");
+
+        System.out.println("Titular: "+cliente.getNome());
+        System.out.println("Idade: "+cliente.getIdade());
+        System.out.println("Sexo: "+cliente.getSexo());
+
         System.out.println("============= Extrado Conta Poupanca =============");
-        System.out.println("Conta do Sr(a) :"+cliente.getNome());
+
+        System.out.println("Agencia: "+ this.agencia);
+        System.out.println("Conta: "+ this.numero);
+        System.out.println("Saldo: "+ this.saldo);
+
+        System.out.println("============= Extrado Conta Corrente =============");
+
         System.out.println("Agencia: "+ this.agencia);
         System.out.println("Conta: "+ this.numero);
         System.out.println("Saldo: "+ this.saldo);

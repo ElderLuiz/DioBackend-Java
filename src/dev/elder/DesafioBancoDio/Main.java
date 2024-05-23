@@ -3,14 +3,21 @@ package dev.elder.DesafioBancoDio;
 public class Main {
     public static void main(String[] args) {
         Cliente luiz = new Cliente();
-        luiz.setNome("Luiz");
-
         Conta cc = new ContaCorrente(luiz);
-        cc.depositar(100);
         Conta contaPoupanca = new ContaPoupanca(luiz);
+
+
+
+        luiz.setNome("Luiz");
+        luiz.setIdade(25);
+        luiz.setSexo("Masculino");
+
+        cc.depositar(1000);
+
         cc.transferir(100,contaPoupanca);
 
+
         cc.imprimirInfo();
-        contaPoupanca.imprimirInfo();
+
     }
 }
