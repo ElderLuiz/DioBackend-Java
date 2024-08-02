@@ -13,21 +13,6 @@ A trilha de formação em Java é um programa abrangente projetado para ajudar o
 - [Ganhando Produtividade no Java com Spring Framework](#)
 - [Soft Skills na Era Agil: Conectando Pessoas e Oportunidades](#)
 
-## 💻 Resumos das Aulas 
-
-| Aulas   | Resumos |
-|---------|---------|
-## Inicio
-|Primeiros Passos com Git & GitHub | [Resumos](#) |
-
-=======
-|Primeiros Passos com Git & Git Hub | [Resumos](#) |
-|Gravando Alterações no Repositório Local | [Resumos](LINK) |
-
-
-```
-git init
-```
 
 ## 🔍 Referências 
 - [Digital Innovation One](https://www.dio.me/).
