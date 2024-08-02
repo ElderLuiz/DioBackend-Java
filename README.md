@@ -5,7 +5,7 @@ A trilha de formação em Java é um programa abrangente projetado para ajudar o
 
 ## 📚 Meu Trajeto
 
-- [Princípios de Desenvolvimento de Software Colaborativo](Git-&-GitHub/Resumo-Git-&-GitHub.md#dio--resumos-versionamento-de-código-com-git-e-github)
+- [Princípios de Desenvolvimento de Software Colaborativo](#)
 - [Dominando a Linguagem de Programação Java](#)
 - [Programação Orientada a Objetos com Java](#)
 - [Testes e Gerenciamento de Dependências em Projetos Java](#)
